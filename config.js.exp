@@ -1,0 +1,9 @@
+var conf = {
+    "cf_email": "",
+    "cf_key": "",
+    "locations": ["jp", "sg"],
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "scheduleJobConfig": "*/15 * * * *"
+}
+module.exports = conf;
